@@ -1,7 +1,7 @@
 {
   "product": [
     { "id": 1,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt kaky garfield",
      "image": "https://cdn.koaj.co/182300-thickbox_default/camiseta-manga-corta-kaky-con-estampado-de-garfield.jpg", 
      "code":"21457",
      "reference":"1",
@@ -10,7 +10,7 @@
      "type":"Offer"
     },
     { "id": 2,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt college",
      "image": "https://cdn.koaj.co/181926-thickbox_default/camiseta-manga-corta-azul-oscuro-con-estampado-en-frente-estilo-college.jpg", 
      "code":"21457",
      "reference":"2",
@@ -19,7 +19,7 @@
      "type":"Offer"
     },
     { "id": 3,
-     "name": "BlOUSE BASIC",
+     "name": "Pant slim drill unicolor",
      "image": "https://cdn.koaj.co/172795-thickbox_default/pantalon-slim-en-drill-unicolor-con-bolsillos-y-tiro-medio.jpg", 
      "code":"21457",
      "reference":"3",
@@ -28,7 +28,7 @@
      "type":"Offer"
     },
     { "id": 4,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt dragon-ball z",
      "image": "https://cdn.koaj.co/181640-thickbox_default/camiseta-manga-corta-negra-con-estampado-de-dragon-ball-z.jpg", 
      "code":"21457",
      "reference":"4",
@@ -37,7 +37,7 @@
      "type":"Offer"
     },
     { "id": 5,
-     "name": "BlOUSE BASIC",
+     "name": "Jogger BASIC",
      "image": "https://cdn.koaj.co/168129-thickbox_default/jogger-unicolor-unisex-pretina-con-elastico-y-salida-de-cordon.jpg", 
      "code":"21457",
      "reference":"5",
