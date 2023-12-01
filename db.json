@@ -720,8 +720,45 @@
     "type":"Offer"
    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "menu": [
+    { "title": "Top ten", "countries": [] },
+    {
+      "title": "Gender",
+      "submenu": [
+        { "title": "Male" },
+        { "gender": "Female" },
+        { "gender": "Unisex" }
+      ]
+    },
+    {
+      "title": "Group",
+      "submenu": [
+        { "title": "All" },
+        { "title": "T-shirt" },
+        { "title": "Pant" },
+        { "title": "Bluse" }
+      ]
+    },
+    {
+      "title": "Turnover",
+      "submenu": [
+        { "title": "All" },
+        { "title": "Excellent" },
+        { "title": "Good" },
+        { "title": "Low" },
+        { "title": "Indeterminate" }
+      ]
+    },
+    {
+      "title": "Days in Stores",
+      "submenu": [
+        { "title": "All" },
+        { "title": "1-30 Days" },
+        { "title": "31-60 Days" },
+        { "title": "61-90 Days" },
+        { "title": "90-120 Days" }
+      ]
+    }
   ],
   "profile": { "name": "typicode" }
 }
