@@ -37,7 +37,7 @@
      "type":"Offer"
     },
     { "id": 5,
-     "name": "Jogger BASIC",
+     "name": "Jogger lundi",
      "image": "https://cdn.koaj.co/168129-thickbox_default/jogger-unicolor-unisex-pretina-con-elastico-y-salida-de-cordon.jpg", 
      "code":"21461",
      "reference":"5",
@@ -46,7 +46,7 @@
      "type":"Offer"
     },
     { "id": 6,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt rose basic",
      "image": "https://cdn.koaj.co/181596-thickbox_default/camiseta-manga-corta-crema-muy-claro-con-estampado-de-sprite-coca-cola.jpg", 
      "code":"21462",
      "reference":"6",
@@ -55,7 +55,7 @@
      "type":"Offer"
     },
     { "id": 7,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt mode frez",
      "image": "https://cdn.koaj.co/181546-thickbox_default/camiseta-manga-corta-negra-con-estampado-de-dragon-ball-z.jpg", 
      "code":"21463",
      "reference":"7",
@@ -64,7 +64,7 @@
      "type":"Offer"
     },
     { "id": 8,
-     "name": "BlOUSE BASIC",
+     "name": "Jogger la vie rose",
      "image": "https://cdn.koaj.co/153082-thickbox_default/jogger-en-colores-vibrantes-con-bolsillos-laterales.jpg", 
      "code":"21464",
      "reference":"8",
@@ -73,7 +73,7 @@
      "type":"Offer"
     },
     { "id": 9,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse basic mardi",
      "image": "https://cdn.koaj.co/182753-thickbox_default/blusa-manga-corta-unicolor-a-cuadros-con-doblez-en-punos.jpg", 
      "code":"21465",
      "reference":"9",
@@ -82,7 +82,7 @@
      "type":"Offer"
     },
     { "id": 10,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse reference basic",
      "image": "https://cdn.koaj.co/182437-thickbox_default/blusa-en-tela-fluida-unicolor-con-doble-bolsillo-cuello-camisero.jpg", 
      "code":"21466",
      "reference":"10",
@@ -91,7 +91,7 @@
      "type":"Offer"
     },
     { "id": 11,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse mode long",
      "image": "https://cdn.koaj.co/182261-thickbox_default/blusa-en-tela-fluida-cuadros-manga-corta-cuello-camisero-con-botonadura-en-el-frente.jpg", 
      "code":"21467",
      "reference":"11",
@@ -100,7 +100,7 @@
      "type":"Offer"
     },
     { "id": 12,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse janvier",
      "image": "https://cdn.koaj.co/182276-thickbox_default/blusa-en-tela-fluida-cuadros-manga-corta-cuello-camisero-con-botonadura-en-el-frente.jpg", 
      "code":"21468",
      "reference":"12",
@@ -109,7 +109,7 @@
      "type":"Offer"
     },
     { "id": 13,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse fevrier ",
      "image": "https://cdn.koaj.co/182090-thickbox_default/blusa-crop-crema-clara-con-disenos-de-letras-y-manga-corta.jpg", 
      "code":"21469",
      "reference":"13",
@@ -118,7 +118,7 @@
      "type":"Offer"
     },
     { "id": 14,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse Constellations",
      "image": "https://cdn.koaj.co/182090-thickbox_default/blusa-crop-crema-clara-con-disenos-de-letras-y-manga-corta.jpg", 
      "code":"21470",
      "reference":"14",
@@ -127,7 +127,7 @@
      "type":"Offer"
     },
     { "id": 15,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse place d'Armes",
      "image": "https://cdn.koaj.co/182074-thickbox_default/blusa-de-rayas-estampadas-manga-completa-con-hombro-caido-y-punos-doblado.jpg", 
      "code":"21471",
      "reference":"15",
@@ -136,7 +136,7 @@
      "type":"Offer"
     },
     { "id": 16,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse Montreal",
      "image": "https://cdn.koaj.co/181806-thickbox_default/blusa-camisera-manga-corta-con-estampado-de-labios.jpg", 
      "code":"21472",
      "reference":"16",
@@ -145,7 +145,7 @@
      "type":"Offer"
     },
     { "id": 17,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse yellow",
      "image": "https://cdn.koaj.co/181583-thickbox_default/blusa-manga-larga-en-slim-fit-con-cuello-camisero.jpg", 
      "code":"21473",
      "reference":"17",
@@ -154,7 +154,7 @@
      "type":"Offer"
     },
     { "id": 18,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse mont royal",
      "image": "https://cdn.koaj.co/180882-thickbox_default/blusa-con-cuello-camisero-frentes-con-extension-para-anudar.jpg", 
      "code":"21474",
      "reference":"18",
@@ -163,7 +163,7 @@
      "type":"Offer"
     },
     { "id": 19,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse frenzell",
      "image": "https://cdn.koaj.co/180023-thickbox_default/blusa-con-cuello-camisero-frentes-con-extension-para-anudar.jpg", 
      "code":"21475",
      "reference":"19",
@@ -172,7 +172,7 @@
      "type":"Offer"
     },
     { "id": 20,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse blanche mode",
      "image": "https://cdn.koaj.co/180015-thickbox_default/blusa-con-cuello-camisero-frentes-con-extension-para-anudar.jpg", 
      "code":"21476",
      "reference":"20",
@@ -181,7 +181,7 @@
      "type":"Offer"
     },
     { "id": 21,
-     "name": "BlOUSE BASIC",
+     "name": "Blouse simple forche",
      "image": "https://cdn.koaj.co/180015-thickbox_default/blusa-con-cuello-camisero-frentes-con-extension-para-anudar.jpg", 
      "code":"21477",
      "reference":"21",
@@ -190,7 +190,7 @@
      "type":"Offer"
     },
     { "id": 22,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt vanguard franc",
      "image": "https://cdn.koaj.co/181700-thickbox_default/camiseta-manga-corta-azul-intenso-con-estampado-de-south-park-.jpg", 
      "code":"21478",
      "reference":"22",
@@ -199,7 +199,7 @@
      "type":"Offer"
     },
     { "id": 23,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt Paris",
      "image": "https://cdn.koaj.co/181640-thickbox_default/camiseta-manga-corta-negra-con-estampado-de-dragon-ball-z.jpg", 
      "code":"21479",
      "reference":"23",
@@ -208,7 +208,7 @@
      "type":"Offer"
     },
     { "id": 24,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt parc l'eau",
      "image": "https://cdn.koaj.co/181634-thickbox_default/camiseta-con-bolsillo-manga-corta-negra-con-estampado-de-monopolio.jpg", 
      "code":"21480",
      "reference":"24",
@@ -217,7 +217,7 @@
      "type":"Offer"
     },
     { "id": 25,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt Canada",
      "image": "https://cdn.koaj.co/181596-thickbox_default/camiseta-manga-corta-crema-muy-claro-con-estampado-de-sprite-coca-cola.jpg", 
      "code":"21481",
      "reference":"25",
@@ -226,7 +226,7 @@
      "type":"Offer"
     },
     { "id": 26,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt Ontario",
      "image": "https://cdn.koaj.co/181546-thickbox_default/camiseta-manga-corta-negra-con-estampado-de-dragon-ball-z.jpg", 
      "code":"21482",
      "reference":"26",
@@ -235,7 +235,7 @@
      "type":"Offer"
     },
     { "id": 27,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt inca fortk",
      "image": "https://cdn.koaj.co/181421-thickbox_default/camiseta-manga-corta-gris-intenso-con-estampado-de-popeye.jpg", 
      "code":"21483",
      "reference":"27",
@@ -244,7 +244,7 @@
      "type":"Offer"
     },
     { "id": 28,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt  couleur du paysage",
      "image": "https://cdn.koaj.co/182300-thickbox_default/camiseta-manga-corta-kaky-con-estampado-de-garfield.jpg", 
      "code":"21484",
      "reference":"28",
@@ -253,7 +253,7 @@
      "type":"Offer"
     },
     { "id": 29,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt arc-en-ciel",
      "image": "https://cdn.koaj.co/181351-thickbox_default/camiseta-manga-corta-blanca-con-estampado-de-billy-mandy.jpg", 
      "code":"21485",
      "reference":"29",
@@ -262,7 +262,7 @@
      "type":"Offer"
     },
     { "id": 30,
-     "name": "BlOUSE BASIC",
+     "name": "T-shirt ",
      "image": "https://cdn.koaj.co/181080-thickbox_default/camiseta-manga-corta-gris-claro-con-contrastes-y-estampado-en-frente-estilo-college.jpg", 
      "code":"21486",
      "reference":"30",
