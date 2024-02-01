@@ -35258,6 +35258,14 @@
         { "title": "Top 12" },
         { "title": "Top 36" }
       ]
+    },
+    { 
+      "title": "Last",
+      "items": [
+        { "title": "All" },
+        { "title": "Last 12" },
+        { "title": "Last 36" }
+      ]
     }, 
     {
       "title": "Category",
@@ -35296,6 +35304,38 @@
             { "title": "Necklace" }
           ]
         }
+      ]
+    }, 
+    {
+      "title": "Turnover",
+      "items": [
+        { "title": "All" },
+        { "title": "Excelent > 90%" },
+        { "title": "Intermediate > 70 <90" },
+        { "title": "Low < 70" },
+        { "title": "Indeterminate" }
+      ]
+    }, 
+    {
+      "title": "Days in Store",
+      "items": [
+        { "title": "1-30" },
+        { "title": "31-60" },
+        { "title": "61-90" },
+        { "title": "91-120" },
+        { "title": "+120" }
+      ]
+    }, 
+    {
+      "title": "Concept",
+      "items": [
+        { "title": "All" },
+        { "title": "Basic" },
+        { "title": "fashion" },
+        { "title": "Programmed fashion" },
+        { "title": "Reaction fashion" },
+        { "title": "Reaction fashion" },
+        { "title": "Indeterminate" }
       ]
     }
   ]
